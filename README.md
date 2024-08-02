@@ -1,18 +1,16 @@
-# **👋 Hello, I'm Himani!**
+# ** Hello, I'm Himani!**
 🚀 Aspiring Data Scientist specializing in Applied AI <br>
 📍 India<br>
-📧 Email: <br>
-🔗 LinkedIn:  <br><br>
+📧 Email: official.himani26@gmail.com<br>
+🔗 LinkedIn: himani-627348114 <br><br>
 
 ## About Me 🌐
-Data Scientist with  geek of Linux. Proficient in Python, machine learning, and deep learning, with a keen focus on generative AI and large language models. Passionate about converting complex data into actionable insights and practical solutions.<br><br>
+Dedicated Software Developer with 10 years of professional experience, specializing in Data Science, Unity, and PHP. My career has been marked by a commitment to delivering high-quality, innovative solutions that exceed client expectations. Over the years, I've honed my skills in full product development cycles, encompassing everything from client interaction and requirement analysis to technology selection and implementation.<br><br>
 
 ## Technical Skills 🛠️
-- **Programming:** Python (NumPy, Pandas, Scikit-learn, Keras, Langchain, Vector Databases, Huggingface)
-- **Data Handling:** SQL, Excel, Web Scraping
+- **Programming:** Python (NumPy, Pandas, Scikit-learn, Keras, Langchain, Vector Databases, Huggingface), C# and PHP.
+- **Data Handling:** MySQL, Excel, Web Scraping
 - **Machine Learning:** Model Training, Optimization
-- **Deep Learning:** Generative AI, Large Language Models (LLMs), NLP
-- **Data Visualization:** Power BI, Tableau
-- **Cloud:** OpenStack
-- **RPA:** UI Path
-- **Frameworks:** FastAPI, Flask
+- **Deep Learning:** Generative AI, Large Language Models (LLMs), NLP, CNN, RNN
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+- **Frameworks:** FastAPI, Django, Laravel
