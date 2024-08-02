@@ -1,5 +1,5 @@
-# ** Hello, I'm Himani! **
-🚀 Aspiring Data Scientist specializing in Applied AI <br>
+# **👋 Hello, I'm Himani!**
+🚀 Aspiring Data Scientist specializing in Deep Learning <br>
 📍 India<br>
 📧 Email: official.himani26@gmail.com<br>
 🔗 LinkedIn: himani-627348114 <br><br>
