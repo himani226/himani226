@@ -1,4 +1,4 @@
-# ** Hello, I'm Himani!**
+# ** Hello, I'm Himani! **
 🚀 Aspiring Data Scientist specializing in Applied AI <br>
 📍 India<br>
 📧 Email: official.himani26@gmail.com<br>
