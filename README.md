@@ -2,7 +2,7 @@
 🚀 Aspiring Data Scientist specializing in Deep Learning <br>
 📍 India<br>
 📧 Email: official.himani26@gmail.com<br>
-🔗 LinkedIn: himani-627348114 <br><br>
+🔗 LinkedIn: (https://www.linkedin.com/in/himani-627348114/) <br><br>
 
 ## About Me 🌐
 Dedicated Software Developer with 10 years of professional experience, specializing in Data Science, Unity, and PHP. My career has been marked by a commitment to delivering high-quality, innovative solutions that exceed client expectations. Over the years, I've honed my skills in full product development cycles, encompassing everything from client interaction and requirement analysis to technology selection and implementation.<br><br>
