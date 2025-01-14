@@ -1,5 +1,5 @@
 # **👋 Hello, I'm Himani!**
-🚀 Aspiring Data Scientist specializing in Deep Learning <br>
+🚀 Aspiring Data Scientist specializing in Deep Learning, AR/VR Instructor <br>
 📍 India<br>
 📧 Email: official.himani26@gmail.com<br>
 🔗 LinkedIn: (https://www.linkedin.com/in/himani-627348114/) <br><br>
